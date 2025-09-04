@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malxte&show_icons=true&locale=en" alt="malxte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malxte&" alt="malxte" /></p>
+<p>By me a bitcoin coffe at: furiousbracket99@walletofsatoshi.com</p>
